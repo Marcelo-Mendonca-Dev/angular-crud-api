@@ -1,0 +1,5 @@
+$kind: http-request
+name: Teste GET - Consultar um produto pelo ID.
+url: http://localhost:3000/api/products/15
+method: GET
+order: 2000

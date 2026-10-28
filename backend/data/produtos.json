@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "nome": "Notebook Gamer",
+    "descricao": "Notebook para jogos e produtividade com excelente desempenho.",
+    "categoria": "Eletrônicos",
+    "preco": 5299.9,
+    "imagem": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 2,
+    "nome": "PlayStation 5",
+    "descricao": "Console de videogame de última geração com gráficos avançados.",
+    "categoria": "Jogos",
+    "preco": 4199.9,
+    "imagem": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 3,
+    "nome": "Headset Gamer",
+    "descricao": "Headset com áudio imersivo e microfone para comunicação.",
+    "categoria": "Eletrônicos",
+    "preco": 389.9,
+    "imagem": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 4,
+    "nome": "Controle Sem Fio",
+    "descricao": "Controle compatível com consoles e dispositivos de forma prática.",
+    "categoria": "Jogos",
+    "preco": 249.9,
+    "imagem": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 5,
+    "nome": "PC Computador ",
+    "descricao": "PC Computador para jogos e produtividade com excelente desempenho.",
+    "categoria": "Eletrônicos",
+    "preco": 3000,
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSExO84BgMkh-GZQwHd3DdSpQqLJLRDtObp7G55D_we-w&s=10"
+  },
+  {
+    "id": 6,
+    "nome": "X BOX",
+    "descricao": "X Box para jogos e desenvolvimento.",
+    "categoria": "Games",
+    "preco": 4500,
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyNhLbsk9RWwGVgeGLLdiUSknWb4JhDWMlwpnfi6evDg&s=10"
+  },
+  {
+    "id": 7,
+    "nome": "Notebook Gamer 2",
+    "descricao": "Notebook Avell\nProcessador ultra 9\nMemoria ram 32 GB\nSSD 1 TB\n",
+    "categoria": "Eletrônicos",
+    "preco": 6000,
+    "imagem": "https://bestoptionnotebook.lojazap.com/_core/_uploads/16053/2024/03/2038130324hcke6i4e9b.webp"
+  },
+  {
+    "id": 8,
+    "nome": "Iphone DUO ",
+    "descricao": "Iphone DUO\n512 GB",
+    "categoria": "Celular",
+    "preco": 20000,
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk62TfiEJbqwwq6hMU1K0T50sqsDnI3UiSvjZcfgLavw&s"
+  },
+  {
+    "id": 9,
+    "nome": "Tablet Apple",
+    "descricao": "Tablet Apple M5\nArmazenamento 128 GB",
+    "categoria": "Tablet",
+    "preco": 3999,
+    "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR2dGNkn5b76NDUf27BWim65WW9-1lqYB8Q1vS4pgZk6Sj82ee_EUtYPAIO_KFft9c_38NmEiCtREkElhkNRbrJyzRoQcKySV2_X5zbFhc_5-tGsyMuO1HWDwXlMwvWvF5cB-ATyeM693s&usqp=CAc"
+  },
+  {
+    "id": 10,
+    "nome": "Perfume Shumukh",
+    "descricao": "Perfume Shumukh fabricado nos Emirados Árabes, em 2019.",
+    "categoria": "Perfume",
+    "preco": 6000000,
+    "imagem": "https://marciatravessoni.com.br/wp-content/uploads/2023/05/conhec%CC%A7a-perfume-mais-caro-do-mundo-819x1024.jpg"
+  },
+  {
+    "id": 11,
+    "nome": "Watch Apple",
+    "descricao": "Watch Apple 10 geração.",
+    "categoria": "Relogio eletronico",
+    "preco": 2000,
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-CgJrpfFfZs65mwj5jQ2CufaM8H-ylk2lbDUmozbwRg&s=10"
+  },
+  {
+    "id": 12,
+    "nome": "Imac Apple",
+    "descricao": "Imac Apple ultimo geração.",
+    "categoria": "Computador",
+    "preco": 11000,
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2bNJ6F7MZojY9Yhsgg9elBPOlSP5ZdJDcRy00yaNPag&s=10"
+  },
+  {
+    "id": 13,
+    "nome": "Air Pods Apple",
+    "descricao": "Air Pods apple novo. Teste Postman PUT",
+    "categoria": "Eletronicos",
+    "preco": 599,
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCfFdFtT7amdb0mvFrJYHumCtf-TRTZh1zfh-VyZ0g_A&s=10"
+  },
+  {
+    "id": 15,
+    "nome": "Fone de ouvido JBL",
+    "descricao": "Fone de ouvido sem fio, novo. Teste Postman PUT",
+    "categoria": "Eletronicos",
+    "preco": 499,
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSERjGC78KBnDRxOUuA9hbYHvPxvfNT_EJCb_Qd-bnRSg&s=10"
+  }
+]
